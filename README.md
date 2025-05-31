@@ -78,3 +78,17 @@ python run.py --reload
 ```
 
 The application will be accessible at [http://127.0.0.1:5000/](http://127.0.0.1:5000/).
+
+## Screenshots
+
+| Home Page | Login |
+
+|-----------|-------------|
+
+| ![Home Page](screenshots/home.png) | ![Login](screenshots/login.png) |
+
+| Register | Market Place |
+
+|--------------|---------------|
+
+| ![Listing](screenshots/registration.png) | ![Market Place](screenshots/market.png) |
